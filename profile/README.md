@@ -67,8 +67,6 @@ We specialize in building end-to-end software systems — from idea to execution
 Looking for a partner for your next big idea? We’d love to help!
 
 📧 **Email**: codingtkm@gmail.com  
-🌐 **Website**: Coming Soon  
-📱 **Phone**: +99361216483  
 🧑‍💻 **Founder**: [@Atamyrat2005](https://github.com/Atamyrat2005)
 
 ---
