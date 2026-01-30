@@ -54,7 +54,6 @@ We specialize in building end-to-end software systems — from idea to execution
 ### 🧠 Current Projects
 
 - **🇹🇲 Turkmen AI**: Offline intelligent assistant for Turkmen language  
-- **SanlyBazar**: Modern e-commerce platform  
 - **Smart Education**: Digital solutions for schools and universities  
 - **Custom ERP Systems** for local businesses
 
